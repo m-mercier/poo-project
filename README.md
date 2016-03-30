@@ -1,7 +1,7 @@
 poo-project
 ===========
 
-Object Oriented Programming 2013/2014 Course Project
+Object Oriented Programming 2014/2015 Course Project
 
 ## Synopsis
 
