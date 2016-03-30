@@ -1,0 +1,52 @@
+﻿Configurações do Ambiente
+
+Largura: 10
+Comprimento: 10
+Tempo de vida: 3
+
+Criação de Agentes e Objectos
+
+Agente
+Tipo: Aleatório
+Cor: amarelo
+Forma geométrica: estrela
+Posição X: 3
+Posição Y: 3
+Campo de visão: 2
+
+Agente
+Tipo: MaxDif
+Cor: azul
+Forma geométrica: circulo
+Posição X: 4
+Posição Y: 1
+Campo de visão: 3
+
+Agente
+Tipo: MaisPerto
+Cor: verde
+Forma geométrica: quadrado
+Posição X: 2
+Posição Y: 0
+Campo de visão: 5
+
+Objecto
+Tipo: Exterior
+Cor: azul
+Forma geométrica: triangulo
+Posição X: 0
+Posição Y: 0
+
+Objecto
+Tipo: Exterior
+Cor: laranja
+Forma geométrica: losango
+Posição X: 8
+Posição Y: 4
+
+Objecto
+Tipo: Interior
+Cor: rosa
+Forma geométrica: quadrado
+Posição X: 2
+Posição Y: 3

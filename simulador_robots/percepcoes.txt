@@ -1,0 +1,51 @@
+As perceções do Robot Aleatório são: 
+
+ID: 5
+Cor: rosa
+Forma Geometrica: quadrado
+Posição
+Coordenada x:2
+Coordenada y:3
+
+
+ID: 5
+Cor: rosa
+Forma Geometrica: quadrado
+Posição
+Coordenada x:2
+Coordenada y:3
+
+As perceções do Robot Máxima diferença são:
+
+ID: 5
+Cor: rosa
+Forma Geometrica: quadrado
+Posição
+Coordenada x:2
+Coordenada y:3
+
+
+ID: 5
+Cor: rosa
+Forma Geometrica: quadrado
+Posição
+Coordenada x:2
+Coordenada y:3
+
+As perceções do Robot Mais perto são:
+
+ID: 5
+Cor: rosa
+Forma Geometrica: quadrado
+Posição
+Coordenada x:2
+Coordenada y:3
+
+
+ID: 5
+Cor: rosa
+Forma Geometrica: quadrado
+Posição
+Coordenada x:2
+Coordenada y:3
+

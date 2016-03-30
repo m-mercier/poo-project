@@ -1,0 +1,12 @@
+Robot 0:
+	Distância Percorrida = 5,00
+	Nº de objectos diferentes aprendidos: 1
+	Nº de objectos aprendidos: 2
+Robot 1:
+	Distância Percorrida = 1,00
+	Nº de objectos diferentes aprendidos: 1
+	Nº de objectos aprendidos: 2
+Robot 2:
+	Distância Percorrida = 2,83
+	Nº de objectos diferentes aprendidos: 1
+	Nº de objectos aprendidos: 2

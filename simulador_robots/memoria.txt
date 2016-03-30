@@ -1,0 +1,27 @@
+A memória do Robot Aleatório é: 
+
+ID: 5
+Cor: rosa
+Forma Geometrica: quadrado
+Posição
+Coordenada x:2
+Coordenada y:3
+
+A memória do Robot Máxima diferença é:
+
+ID: 5
+Cor: rosa
+Forma Geometrica: quadrado
+Posição
+Coordenada x:2
+Coordenada y:3
+
+A memória do Robot Mais perto é:
+
+ID: 5
+Cor: rosa
+Forma Geometrica: quadrado
+Posição
+Coordenada x:2
+Coordenada y:3
+
